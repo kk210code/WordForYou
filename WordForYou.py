@@ -1,3 +1,7 @@
+def printSong(song):
+  print("\n\n", song, "\n")
+  
+  
 print("Kit, I love you ten thousand years and next life and next life and next life...")
 print("2020/1/4, 愛你愛你一世")
 song = '''勾手指尾
@@ -57,5 +61,5 @@ song = '''勾手指尾
 冧得你
 愛到下世先算入戲'''
 
-print("\n\n", song, "\n")
-
+#print("\n\n", song, "\n")
+printSong(song)
